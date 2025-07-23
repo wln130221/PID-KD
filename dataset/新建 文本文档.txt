@@ -1,0 +1,7 @@
+实验所用数据集都是公开下载的，下载链接如下
+Plant-Village数据集
+PlantVillage 数据集包括 54303张健康和病害图片https://link.zhihu.com/?target=https%3A//data.mendeley.com/datasets/tywbtsjrjv/1
+水稻叶片病害数据集 Rice Leaf Disease Image Samples
+包含 5932张图片，4类水稻叶片病害，包括白叶枯病、稻瘟病、东格鲁病、褐斑病https://link.zhihu.com/?target=https%3A//data.mendeley.com/datasets/fwcj7stb8r/1
+小麦病害分类数据集https://link.zhihu.com/?target=https%3A//drive.google.com/drive/folders/1OHKtwD1UrdmhqxrpQEeF_X_pqKotxRGD
+大豆病虫害数据集https://aistudio.baidu.com/datasetdetail/185712
