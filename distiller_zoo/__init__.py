@@ -11,7 +11,7 @@ from .PKT import PKT
 from .RKD import RKDLoss
 from .SP import Similarity
 from .VID import VIDLoss
-from .TripleT_KD import FADLoss,TDA_KLLoss
+from .PID_KD import FADLoss,TDA_KLLoss
 from .OFD import OFD
 from .ReviewKD import ReviewKD
 from .CAT_KD import CAT_KD
